@@ -7,6 +7,7 @@
 
 ## Autores: Taras Pavliv, Anton Platonov
 
+
 Fecha: 09/06/2020
 
 
@@ -14,9 +15,10 @@ Se escoge el “dataset” de calidad de vinos juntando los vinos blancos y rojo
 
 
 
-Investigación previa: Taras Pavliv, Anton Platonov.  
-Redacción de las respuestas: Taras Pavliv, Anton Platonov.  
-Desarrollo código: Taras Pavliv, Anton Platonov.  
+
+Investigación previa:         Taras Pavliv, Anton Platonov.  
+Redacción de las respuestas:  Taras Pavliv, Anton Platonov.  
+Desarrollo código:            Taras Pavliv, Anton Platonov.  
 
 
 
