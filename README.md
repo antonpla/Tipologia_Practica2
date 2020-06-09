@@ -22,11 +22,12 @@ Desarrollo código:            Taras Pavliv, Anton Platonov.
 
 
 
-Datasets:
+Datasets Origniales de UCI:
 
 http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv 
+ 
 http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
 
-
-
+(Es practicamente el mismo dataset que en Kaggle:
+https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
