@@ -1,4 +1,6 @@
-#  Tipología y ciclo de vida de los datos  Practica2
+#  Tipología y ciclo de vida de los datos  
+
+#  Practica2
 
 # Wine Quality Dataset Analysis 
 
